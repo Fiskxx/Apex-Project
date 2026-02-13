@@ -1,1 +1,2 @@
-Modo Free" é uma otimização básica de bateria.
+echo "MODO GRÁTIS ATIVO. COMPRE O PRO COM @Fiskxx"
+
